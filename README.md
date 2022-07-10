@@ -32,6 +32,11 @@
 
 #### ◽ Apaixonado por tecnologias 💻.<br/>
 #### ◽ Atualmente Cursando Analise e Desenvolvimento de Sistemas pela Unicesumar 📖✍️.<br/>
-#### ◽ Alguns Projetos sendo finalizados, e estarão aqui em breve 🕙.<br/></br></br>
+#### ◽ Alguns Projetos sendo finalizados, e estarão aqui em breve 🕙.<br/></br></br></br>
+
+<div align="Center">
+<img src="https://media1.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47teyumv3dcxa92h9ezgktmj83l8bm64f9qbuayulk&rid=giphy.gif&ct=s"width="1px"/>
+</div><br>
+
 
 ![Snake animation](https://github.com/GuilhermeVeloso/GuilhermeVeloso/blob/output/github-contribution-grid-snake.svg)

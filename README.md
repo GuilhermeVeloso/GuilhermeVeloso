@@ -25,13 +25,13 @@
 <img align="center"  alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="center"  alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center"  alt="Angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
-</div></br></br></br>
+</div></br></br>
 
 
 ## 👨 SOBRE MIM ⬇️ </br></br>
 
 #### ◽ Apaixonado por tecnologias 💻.<br/>
 #### ◽ Atualmente Cursando Analise e Desenvolvimento de Sistemas pela Unicesumar 📖✍️.<br/>
-#### ◽ Alguns Projetos sendo finalizados, e estarão aqui em breve 🕙.<br/>
+#### ◽ Alguns Projetos sendo finalizados, e estarão aqui em breve 🕙.<br/></br></br>
 
 ![Snake animation](https://github.com/GuilhermeVeloso/GuilhermeVeloso/blob/output/github-contribution-grid-snake.svg)
